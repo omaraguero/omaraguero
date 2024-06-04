@@ -19,7 +19,7 @@ But I love learning all the time, so in the future, I will learn more!
 - [QR Lector for turning on LEDS in Arduino](https://github.com/omaraguero/lectorQRPosiciones)
 - [Markdown-Blog with NodeJS](https://github.com/omaraguero/basic-markdownblog-nodejs)
 - [GTi File Creator for EMDEP GTI](https://github.com/omaraguero/GTiFileCreator)
-- [Go API with MongoDB](https://github.com/omaraguero/go-API)
+- [Go API - MongoDB](https://github.com/omaraguero/go-API)
 
 
 
