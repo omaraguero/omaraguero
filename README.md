@@ -1,4 +1,4 @@
-### Hi! Welcome to my github profile, I'm Ruben Omar Aguero!
+## Hi! Welcome to my github profile, I'm Ruben Omar Aguero!
 ---
 I am a Mechatronic, graduated from the UTNC here in Mexico. Since I was 16 I feel passionate about the programming world!
 ---
@@ -11,6 +11,12 @@ Here you will find some of my projects, I mainly use:
 ---
 But I love learning all the time, so in the future, I will learn more!
 ---
+
+## This are some of my projects!
+[Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
+
+
+
 
 And also, I have a YouTube Channel where I upload some of my projects!
 ![YT](youtube.png)
