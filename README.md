@@ -13,16 +13,17 @@ But I love learning all the time, so in the future, I will learn more!
 ---
 
 ## This are some of my projects!
-[Random Choice App (Closed Beta)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria).
-[CSW - Stickers Creator for WhatsApp in Kotlin](https://github.com/omaraguero/stickers-for-whatsapp-kotlin).
-[Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
-[Weather Page with Python-Django](https://github.com/omaraguero/weather-app)
-[Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
-[PHP-SchoolPage-CRUD](https://github.com/omaraguero/php-CRUD)
-[QR Lector for turning on LEDS in Arduino](https://github.com/omaraguero/lectorQRPosiciones)
-[Markdown-Blog with NodeJS](https://github.com/omaraguero/basic-markdownblog-nodejs)
-[GTi File Creator for EMDEP GTI](https://github.com/omaraguero/GTiFileCreator)
-[Go API with MongoDB](https://github.com/omaraguero/go-API)
+- [Random Choice App (Closed Beta)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
+
+- [CSW - Stickers Creator for WhatsApp in Kotlin](https://github.com/omaraguero/stickers-for-whatsapp-kotlin)
+- [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
+- [Weather Page with Python-Django](https://github.com/omaraguero/weather-app)
+- [Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
+- [PHP-SchoolPage-CRUD](https://github.com/omaraguero/php-CRUD)
+- [QR Lector for turning on LEDS in Arduino](https://github.com/omaraguero/lectorQRPosiciones)
+- [Markdown-Blog with NodeJS](https://github.com/omaraguero/basic-markdownblog-nodejs)
+- [GTi File Creator for EMDEP GTI](https://github.com/omaraguero/GTiFileCreator)
+- [Go API with MongoDB](https://github.com/omaraguero/go-API)
 
 
 
@@ -45,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
