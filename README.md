@@ -25,6 +25,7 @@ But I love learning all the time, so in the future, I will learn more!
 
 
 ### And also, I have a YouTube Channel where I upload some of my projects!
+- [YouTube Channel](https://www.youtube.com/channel/UC7IlEpwtFkT9YV-qYkEQirQ)
 ![YT](youtube.png)
 
 
