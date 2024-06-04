@@ -9,7 +9,7 @@ Here you will find some of my projects, I mainly use:
 ---
 But I love learning all the time, so in the future, I will learn more!
 
-## This are some of my projects!
+## These are some of my projects!
 - [Random Choice App - Android (Closed Beta)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
 - [CSW - Stickers Creator for WhatsApp in Kotlin](https://github.com/omaraguero/stickers-for-whatsapp-kotlin)
 - [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
