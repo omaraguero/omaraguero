@@ -12,6 +12,7 @@ But I love learning all the time, so in the future, I will learn more!
 
 ## These are some of my projects!
 - [Random Choice App - Android (Closed Beta)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
+- [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
 - [CSW - Stickers Creator for WhatsApp in Kotlin](https://github.com/omaraguero/stickers-for-whatsapp-kotlin)
 - [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
 - [Weather Page with Python-Django](https://github.com/omaraguero/weather-app)
