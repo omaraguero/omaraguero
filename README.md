@@ -7,7 +7,8 @@ Here you will find some of my projects, I mainly use:
 - Javascript
 - PHP
 - C#
-\n But I love learning all the time, so in the future, I will learn more!
+
+But I love learning all the time, so in the future, I will learn more!
 ---
 
 
