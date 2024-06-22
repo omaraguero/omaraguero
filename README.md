@@ -6,9 +6,9 @@ Here you will find some of my projects, I mainly use:
 - Python
 - Javascript
 - PHP
-
----
 But I love learning all the time, so in the future, I will learn more!
+---
+
 
 ## These are some of my projects!
 - [Random Choice App - Android (Closed Beta)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
