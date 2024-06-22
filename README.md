@@ -6,6 +6,7 @@ Here you will find some of my projects, I mainly use:
 - Python
 - Javascript
 - PHP
+- C#
 But I love learning all the time, so in the future, I will learn more!
 ---
 
