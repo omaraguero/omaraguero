@@ -19,7 +19,7 @@ Here you will find some of my projects, I mainly use:
 - [Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
 - [PHP-SchoolPage-CRUD](https://github.com/omaraguero/php-CRUD)
 - [QR Lector for turning on LEDS in Arduino](https://github.com/omaraguero/lectorQRPosiciones)
-- [Markdown-Blog with NodeJS](https://github.com/omaraguero/basic-markdownblog-nodejs)
+- [PetCRUD with C# and .NET](https://github.com/omaraguero/PetCRUD-Csharp_dotNet)
 - [GTi File Creator for EMDEP GTI](https://github.com/omaraguero/GTiFileCreator)
 - [Go API - MongoDB](https://github.com/omaraguero/go-API)
 - [Pizza Shop Page with ASP.NET](https://github.com/omaraguero/Pizza_shop_ASPdotNet)
