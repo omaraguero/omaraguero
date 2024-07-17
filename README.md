@@ -2,6 +2,7 @@
 I am a Mechatronic, graduated from the UTNC here in Mexico. Since I was 16 I feel passionate about the programming world!
 Here you will find some of my projects, I mainly use:
 - Kotlin
+- Java
 - C++
 - Python
 - Javascript
