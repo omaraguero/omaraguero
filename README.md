@@ -1,51 +1,28 @@
-## Hi! Welcome to my github profile, I'm Ruben Omar Aguero!
-I am a Mechatronic, graduated from the UTNC here in Mexico. Since I was 16 I feel passionate about the programming world!
-Here you will find some of my projects, I mainly use:
-- Kotlin
-- Java
-- C++
-- Python
-- Javascript
-- PHP
-- C#
+👋 Hi! Welcome to my github profile, I'm Ruben Omar Aguero!
 ---
+![Banner](LINKEDIN.jpg)
 
+<h1 align=center>
+<a href="https://www.linkedin.com/in/rubenomaraguerovarela1/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rubenaguero.roa@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.youtube.com/@rubenomaraguero1" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/dev?id=5383262590807048671" ><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+</h1>
 
-## These are some of my projects!
-- [Invit App - Android (PlayStore Beta)](https://play.google.com/store/apps/details?id=com.roa.invit)
-- [Random Choice App - Android (PlayStore)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
-- [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
-- [CSW - Stickers Creator for WhatsApp in Kotlin](https://github.com/omaraguero/stickers-for-whatsapp-kotlin)
-- [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
-- [Weather Page with Python-Django](https://github.com/omaraguero/weather-app)
-- [Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
-- [PHP-SchoolPage-CRUD](https://github.com/omaraguero/php-CRUD)
-- [QR Lector for turning on LEDS in Arduino](https://github.com/omaraguero/lectorQRPosiciones)
-- [PetCRUD with C# and .NET](https://github.com/omaraguero/PetCRUD-Csharp_dotNet)
-- [GTi File Creator for EMDEP GTI](https://github.com/omaraguero/GTiFileCreator)
-- [Go API - MongoDB](https://github.com/omaraguero/go-API)
-- [Pizza Shop Page with ASP.NET](https://github.com/omaraguero/Pizza_shop_ASPdotNet)
+### :smiley: About me
+I am an Engineer with a passion for IT technologies. Programming is my strongest skill, and I am committed to 
+doing the best I can for projects, while constantly learning at all times. Also, I have a YouTube Channel where I 
+upload videos of my projects. I am focused on Mobile development but at the same time, I am constantly learning about all technologies.
 
+Feel free to connect or contact me if you have any questions: rubenaguero.roa@gmail.com
 
-
-
-### And also, I have a YouTube Channel where I upload some of my projects!
-- [YouTube Channel](https://www.youtube.com/channel/UC7IlEpwtFkT9YV-qYkEQirQ)
-![YT](youtube.png)
-
-
-<!--
-**omaraguero/omaraguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### 🔧 Tools & Technologies
+---
+#### 📱 For Mobile Development
+**Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+:--- | :---
+**Architectures** | ![MVVM](https://img.shields.io/badge/MVVM-8A2BE2) ![MVI](https://img.shields.io/badge/MVI-84SDA2) 
+**UI** | ![JETPACK COMPOSE](https://img.shields.io/badge/Jetpack-Compose-blue) ![XML](https://img.shields.io/badge/XML-4C9271)
+**DB** | ![Room](https://img.shields.io/badge/Room-641B7D) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite) ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**IDE** | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**Other** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
