@@ -19,7 +19,7 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 ### 🔧 Tools & Technologies
 ---
 #### 📱 For Mobile Development
-**Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+**Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white) 
 :--- | :---
 **Architectures** | ![MVVM](https://img.shields.io/badge/MVVM-D67425?style=for-the-badge) ![MVI](https://img.shields.io/badge/MVI-09521F?style=for-the-badge)
 **UI** | ![JetpackCompose](https://img.shields.io/badge/Jetpack_Compose-9510DD?style=for-the-badge&logo=Rocket&logoColor=white) ![XML](https://img.shields.io/badge/XML-418C13?style=for-the-badge&logoColor=white)
