@@ -17,7 +17,6 @@ upload videos of my projects. I am focused on Mobile development but at the same
 Feel free to connect or contact me if you have any questions: rubenaguero.roa@gmail.com
 
 ### 🔧 Tools & Technologies
----
 #### 📱 For Mobile Development
 **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white) 
 :--- | :---
