@@ -21,8 +21,8 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 #### 📱 For Mobile Development
 **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 :--- | :---
-**Architectures** | ![MVVM](https://img.shields.io/badge/MVVM-8A2BE2) ![MVI](https://img.shields.io/badge/MVI-84SDA2) 
-**UI** | ![JETPACK COMPOSE](https://img.shields.io/badge/Jetpack-Compose-blue) ![XML](https://img.shields.io/badge/XML-4C9271)
-**DB** | ![Room](https://img.shields.io/badge/Room-641B7D) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite) ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-**IDE** | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-**Other** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+**Architectures** | ![MVVM](https://img.shields.io/badge/MVVM-D67425?style=for-the-badge) ![MVI](https://img.shields.io/badge/MVI-09521F?style=for-the-badge)
+**UI** | ![JetpackCompose](https://img.shields.io/badge/Jetpack_Compose-9510DD?style=for-the-badge&logo=Rocket&logoColor=white) ![XML](https://img.shields.io/badge/XML-418C13?style=for-the-badge&logoColor=white)
+**DB** | ![Room](https://img.shields.io/badge/Room-3519FF?style=for-the-badge&logoColor=white)  ![Room](https://img.shields.io/badge/SQLite-20118F?style=for-the-badge&logoColor=white) ![Mongo](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+**IDE** | ![AndroidSt](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android&style=for-the-badge) ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+**Other** | Retrofit  GraphQL Git  Firebase    Unit Test  Kotlin Multiplatform AdMob Dagger Hilt
