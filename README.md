@@ -41,7 +41,7 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 - [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
 - [Country App - Android](https://github.com/omaraguero/CountriesApp-GraphQL)
 
-  #### For Web & Desktop Development
+#### For Web & Desktop Development
 - [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
 - [Weather Page with Python-Django](https://github.com/omaraguero/weather-app)
 - [Banana Control for Mario64 with Python](https://github.com/omaraguero/Python-Control-de-Platano-para-Mario-Kart-64)
