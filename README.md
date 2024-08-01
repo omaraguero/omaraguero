@@ -36,6 +36,7 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 
 ### :rocket: Some personal projects
 #### For Mobile Development
+- [Libre Messages (chat app)](https://github.com/omaraguero/LibreMessages-android)
 - [Invit App - Android (PlayStore Beta)](https://play.google.com/store/apps/details?id=com.roa.invit)
 - [Random Choice App - Android (PlayStore)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
 - [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
