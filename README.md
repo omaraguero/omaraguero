@@ -41,6 +41,7 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 - [Random Choice App - Android (PlayStore)](https://play.google.com/store/apps/details?id=com.roa.eleccionaleatoria)
 - [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
 - [Country App - Android](https://github.com/omaraguero/CountriesApp-GraphQL)
+- [Yes No App - Flutter](https://github.com/omaraguero/yesnoapp)
 
 #### For Web & Desktop Development
 - [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
