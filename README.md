@@ -42,6 +42,7 @@ Feel free to connect or contact me if you have any questions: rubenaguero.roa@gm
 - [News App - Android](https://github.com/omaraguero/news-app-android-kotlin)
 - [Country App - Android](https://github.com/omaraguero/CountriesApp-GraphQL)
 - [Yes No App - Flutter](https://github.com/omaraguero/yesnoapp)
+- [Sushi App - Flutter](https://github.com/omaraguero/sushiapp-flutter)
 
 #### For Web & Desktop Development
 - [Attendance System in C# with .NET](https://github.com/omaraguero/attendance-system-csharp)
